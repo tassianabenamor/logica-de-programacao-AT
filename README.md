@@ -13,7 +13,9 @@ O programa deve exibir um menu com as seguintes opções: inclusão de conta, al
 - No caso da opção de relatórios gerenciais, serão oferecidas as seguintes opções: listar clientes com saldo negativo, listar os clientes que têm saldo acima de um determinado valor e listar todas as contas.<br>
 - Nos casos de exclusão, alteração e consulta, o programa deverá verificar se a lista de contas está vazia e exibir uma mensagem para o usuário.
 <br>
+<br>
 O programa deve implementar variáveis locais, passagem de parâmetros, tratador de exceção (try/except), lista, funções e todas as boas práticas apresentadas durante o curso como, por exemplo, evitar funções que realizam mais de uma operação.
+<br>
 <br>
 O programa deverá ser apresentado pessoalmente para o professor antes de ser enviado no Moodle. Caso contrário, o trabalho não será avaliado e o aluno reprovado.
 <br>
