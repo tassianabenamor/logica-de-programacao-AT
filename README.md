@@ -22,3 +22,4 @@ O programa deverá ser apresentado pessoalmente para o professor antes de ser en
 - Utilize funções para os menus, pesquisa de conta, entrada de dados e leitura e gravação do arquivo;
 - Faça a validação dos dados utilizando funções para número da conta, nome e saldo;
 - Leia o arquivo no início do programa, antes do loop principal, armazene em uma lista e depois grava a lista em arquivo no final do programa.
+ 
