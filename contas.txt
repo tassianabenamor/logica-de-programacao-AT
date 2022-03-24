@@ -1,0 +1,4 @@
+2;Isabel Nunes;-100.0
+3;Oscar Figueiredo;385.0
+456;Matheus Mendes;3000.0
+1990;papa leguas;1.0
