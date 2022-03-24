@@ -1,6 +1,5 @@
 <h1>Lógica de Programação - AT</h1>
   <h2>Prof. LP Maia</h2>
-
 Faça um programa que leia um arquivo texto de contas corrente (contas.txt) de pessoas físicas (PF). As contas devem ser armazenadas em uma lista na memória principal. A conta da PF tem como informações: o número da conta (inteiro maior que zero), nome do correntista (string) e saldo (real).
 <br>
 O programa deve exibir um menu com as seguintes opções: inclusão de conta, alteração de saldo, exclusão de conta, relatórios gerenciais e saída do programa. Ao término, o programa deverá gravar os dados atualizados da lista no mesmo arquivo em disco.
@@ -16,7 +15,8 @@ O programa deve implementar variáveis locais, passagem de parâmetros, tratador
 <br>
 O programa deverá ser apresentado pessoalmente para o professor antes de ser enviado no Moodle. Caso contrário, o trabalho não será avaliado e o aluno reprovado.
 <br>
-Dicas:
+<h2></h2>
+<strong>Dicas:</strong>
 <br>
 - Utilize funções para cada operação (incluir, alterar, excluir e consultar);
 - Utilize funções para os menus, pesquisa de conta, entrada de dados e leitura e gravação do arquivo;
