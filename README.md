@@ -2,7 +2,9 @@
 <h2>Prof. LP Maia</h2>
 Faça um programa que leia um arquivo texto de contas corrente (contas.txt) de pessoas físicas (PF). As contas devem ser armazenadas em uma lista na memória principal. A conta da PF tem como informações: o número da conta (inteiro maior que zero), nome do correntista (string) e saldo (real).
 <br>
+<br>
 O programa deve exibir um menu com as seguintes opções: inclusão de conta, alteração de saldo, exclusão de conta, relatórios gerenciais e saída do programa. Ao término, o programa deverá gravar os dados atualizados da lista no mesmo arquivo em disco.
+<br>
 <br>
 - No caso de inclusão, o programa deverá evitar que seja criada uma conta com um número que já exista, caso contrário deverá enviar uma mensagem de erro. Além disso, o nome deve ter, pelo menos, dois nomes e o saldo inicial um valor maior ou igual a zero;<br>
 - Nos casos de alteração e exclusão, o programa deverá garantir que a conta exista, caso contrário deverá enviar uma mensagem de erro. <br>
